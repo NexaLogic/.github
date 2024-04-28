@@ -4,7 +4,7 @@
 
 ## 🚀 What We Do
 
-We embark on diverse projects, each a unique tapestry woven with threads of:
+We embark on diverse projects, each a unique tapestry woven with threads of: 
 
 * **Frontend:** We paint the pixels, breathe life into interfaces, and make technology a joy to use. ⚡️
 * **Backend:** We build the bones, forge the engines, and ensure everything runs smoothly behind the scenes. ⚙️
